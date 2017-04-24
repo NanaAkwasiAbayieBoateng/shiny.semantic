@@ -19,4 +19,6 @@ Imports:
     shiny (>= 0.12.1),
     htmltools (>= 0.2.6),
     htmlwidgets (>= 0.8)
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
 RoxygenNote: 5.0.1

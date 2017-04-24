@@ -1,0 +1,10 @@
+---
+title: "Introduction to shiny.semantic"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to shiny.semantic}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+Testowa winietka.
